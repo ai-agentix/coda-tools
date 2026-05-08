@@ -1,0 +1,22 @@
+{
+  "tools": [
+    {
+      "name": "Capture Page",
+      "description": "Screenshot the current Coda page",
+      "icon": "[img]",
+      "script": "page-capture.js"
+    },
+    {
+      "name": "Take Photo",
+      "description": "Capture an image from your camera",
+      "icon": "[cam]",
+      "script": "camera.js"
+    },
+    {
+      "name": "Record Audio",
+      "description": "Record from your microphone",
+      "icon": "[mic]",
+      "script": "microphone.js"
+    }
+  ]
+}
